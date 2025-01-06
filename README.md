@@ -1,4 +1,4 @@
-# Breast Cancer Classification using Machine Learning
+# Breast Cancer Prediction using Machine Learning
 ## Description
 Breast cancer remains a significant global health concern, affecting millions of individuals each year. Early and accurate diagnosis of breast cancer is pivotal for effective treatment and improved patient outcomes. In this era of advanced technology and data-driven healthcare, machine learning offers a promising solution to assist medical professionals in the timely and precise identification of breast cancer cases.
 
